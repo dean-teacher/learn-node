@@ -6,3 +6,4 @@ var flagForFalse = false;
 
 console.log(flagForTrue);
 console.log(flagForFalse);
+console.log("test");
